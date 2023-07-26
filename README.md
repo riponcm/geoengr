@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" /> 
+
+  
 </kbd>
 <kbd>
 <kbd>Frameworks or Technologies</kbd>
@@ -42,10 +42,7 @@ You can click the Preview link to take a look at your changes.
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /> 
 <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />  
 </kbd>
 </p>  
       
