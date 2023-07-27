@@ -70,6 +70,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://scholar.google.com/citations?user=7-QY6VEAAAAJ&hl=en"><img width="28px" src="https://iconape.com/wp-content/files/da/64524/png/google-scholar.png" /></a>  
 <a href="https://www.researchgate.net/profile/Ripon-Malo"><img width="28px" src="https://avatars.githubusercontent.com/u/1073651?s=200&v=4" /></a>  
 </kbd>
-</p>      
+</p>   
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/riponce"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="riponce" /></a></p><br><br>
 <body/> 
 <html/>
