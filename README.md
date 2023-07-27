@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
       
 <p align="center">I'm a geotechnical engineer with extensive academic and practical experience. I have completed my M.Sc in Civil (Geotechnical) Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)<a> and have over 5 yrs of experience in subsoil investigation and design. My expertise include advance soil laboratory testing, field soil testing, and geotechnical design. In addition to my professional background, I have spent almost 4 years. conducting research in geotechnical engineering. My research has given me a deep understanding of the complexities of the field and allowed me to create innovative solutions to challenging problems. A geotechnical engineer with a passion for Python programming, diving into <b>data science</b> and <b></b>machine learning</b> to revolutionize geotechnical analyses and enhance civil infrastructure's safety and sustainability. 🚀🐍🌐 <br>
 <p/>
-<h2 align="center">👨‍💻Skills👨‍💻</h2>
+<h2 align="center">Skills</h2>
 <p style="display: inline-block;" align="center">
 <kbd>
 <kbd>Programming Languages</kbd>
@@ -49,12 +49,12 @@ You can click the Preview link to take a look at your changes.
       
 
       
-<h2 align="center">📊Github Statistics📊</h2>     
+<h2 align="center">Github Statistics</h2>     
 <div align="center">
 <a href="https://github.com/geoengr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoengr&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Hasib's GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geoengr&layout=compact&theme=gotham">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoengr&layout=compact&langs_count=7&theme=gotham" alt="Ripon's Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geoengr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Ripon's GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geoengr&layout=compact&theme=algolia">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoengr&layout=donut&langs_count=7&theme=algolia" alt="Ripon's Top Languages"/>
 </a>
 </div>     
      
